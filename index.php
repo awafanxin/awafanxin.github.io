@@ -1,0 +1,1 @@
+<script src="http://fxmc.uovou.cn/live2d/autoload.js"></script>
